@@ -60,6 +60,7 @@ public class MainFragment extends Fragment {
 
     } // openScanQRcode
 
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
